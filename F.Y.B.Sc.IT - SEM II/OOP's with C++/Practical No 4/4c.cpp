@@ -1,0 +1,1 @@
+// Write a C++ program to access members of a STUDENT class using pointer to object members
